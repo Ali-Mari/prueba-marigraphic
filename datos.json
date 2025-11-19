@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Afiche y Videos Ready Player One",
+        "descripcion": "Propuesta de afiche y videos de los créditos de la película Ready Player One.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/rp1-1.png",
+        "fotos": ["rp1-2.png","rp1-4.png","rp1-5.png","rp1-6.png","rp1-7.png","rp1-8.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page.html"
+    },
+    {
+        "nombre": "Museo MAC",
+        "descripcion": "Propuesta de rediseñar una nueva linea gráfica de un museo en Chile.",
+        "fecha": "2024",
+        "signo": "branding",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/mac-1.png",
+        "fotos": ["mac-2.png","mac-3.png","mac-4.png","mac-5.png","mac-6.png","mac-7.png","mac-8.png","mac-9.png","mac-10.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page1.html"
+    },
+    {
+        "nombre": "Jinshu",
+        "descripcion": "Diseño de juego de mesa sobre la conquista de diferentes razas fantásticas.",
+        "fecha": "2022",
+        "signo": "juego",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/jinshu-1.png",
+        "fotos": ["jinshu-2.png","jinshu-3.png","jinshu-4.png","jinshu-5.png","jinshu-6.png","jinshu-7.png","jinshu-8.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page2.html"
+    },
+    {
+        "nombre": "Cafeteria La Subida",
+        "descripcion": "Rediseñar un conjunto de servilleta, individual y menú de la cafetería La Subida.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/cafeteria-lasubida-1.png",
+        "fotos": ["cafeteria-lasubida-2.png","cafeteria-lasubida-3.png","cafeteria-lasubida-4.png","cafeteria-lasubida-5.png","cafeteria-lasubida-6.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page3.html"
+    },
+    {
+        "nombre": "Libro Materiales y Packaging",
+        "descripcion": "Libro interactivo de los diferentes materiales que se usan para fabricar packagings de diferentes productos.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/libro-packaging-1.png",
+        "fotos": ["libro-packaging-2.png","libro-packaging-3.png","libro-packaging-4.png","libro-packaging-5.png","libro-packaging-6.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page4.html"
+    },    
+    {
+        "nombre": "Website CARE",
+        "descripcion": "Rediseñar el sitio web completa de la Fundación CARE.",
+        "fecha": "2024",
+        "signo": "web",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/webcare-1.png",
+        "fotos": ["webcare-2.png","webcare-3.png","webcare-4.png","webcare-5.png","webcare-6.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page5.html"
+    },
+    {
+        "nombre": "Emociones y Niños",
+        "descripcion": "Trabajo de título de diseño. Un storyline interactivo para cuidades de niños con cáncer.",
+        "fecha": "2025",
+        "signo": "web",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/titulo-1.png",
+        "fotos": ["titulo-2.png","titulo-3.png","titulo-4.png","titulo-5.png","titulo-6.png","titulo-7.png","titulo-8.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page6.html"
+    },
+    {
+        "nombre": "Banca NUM",
+        "descripcion": "Mueble de terciado con guía instructiva de armado estilo Ikea.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/num-1.png",
+        "fotos": ["num-2.png","num-3.png","num-4.png","num-5.png","num-6.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page7.html"
+    },
+    {
+        "nombre": "Campaña Colecta CARE 2025",
+        "descripcion": "Diseño de campaña para la Fundación CARE.",
+        "fecha": "2025",
+        "signo": "grafica",
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/colectacare-1.png",
+        "fotos": ["colectacare-2.png","colectacare-3.png","colectacare-4.png","colectacare-5.png","colectacare-6.png","colectacare-7.png","colectacare-8.png"],
+        "github": "https://github.com/ali-mari",
+        "enlace": "page8.html"
+    }
+]
