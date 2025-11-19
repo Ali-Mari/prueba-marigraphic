@@ -34,8 +34,8 @@
         "descripcion": "Rediseñar un conjunto de servilleta, individual y menú de la cafetería La Subida.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/cafeteria-subida-1.png",
-        "fotos": ["cafeteria-subida-2.png","cafeteria-subida-3.png","cafeteria-subida-4.png","cafeteria-subida-5.png","cafeteria-subida-6.png"],
+        "foto": "https://raw.githubusercontent.com/Ali-Mari/prueba-marigraphic/refs/heads/main/img/cafeteria-lasubida-1.png",
+        "fotos": ["cafeteria-lasubida-2.png","cafeteria-lasubida-3.png","cafeteria-lasubida-4.png","cafeteria-lasubida-5.png","cafeteria-lasubida-6.png"],
         "github": "https://github.com/ali-mari",
         "enlace": "page3.html"
     },
